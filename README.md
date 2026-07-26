@@ -1,4 +1,7 @@
 # 👋 Hi, I'm Akshaya E
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Computer+Science+Engineering+Student;Microsoft+Certified+Azure+Fundamentals;Learning+Java+%7C+Python+%7C+Cloud;Interested+in+Generative+AI+%26+Cloud+Computing" />
+</p>
 
 ## 💻 Computer Science Engineering Student
 
@@ -20,3 +23,8 @@
 -💼 LinkedIn: https://www.linkedin.com/in/pramaakshaya/
 
 ⭐ Thanks for visiting my profile!
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=achu-01&show_icons=true&theme=tokyonight" />
+</p>
