@@ -28,3 +28,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=achu-01&show_icons=true&theme=tokyonight" />
 </p>
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=achu-01&theme=tokyonight" />
+</p>
