@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Akshaya E
 
-<!--
-**achu-01/achu-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Computer Science Engineering Student
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 🌱 Currently learning Java
+- 🐍 Learning Python
+- ☁️ Microsoft Certified: Azure Fundamentals (AZ-900)
+- 📊 Interested in Generative AI & Cloud Computing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills
+- ☕ Core Java (OOP Concepts)
+- 🐍 Core Python (OOP Concepts)
+- ☁️ Microsoft Azure (Basics)
+- 🌐 HTML (Basics)
+- 🎨 CSS (Basics)
+- 🔧 Git & GitHub (Basics)
+
+### 📫 Connect with me
+-💼 LinkedIn: https://www.linkedin.com/in/pramaakshaya/
+
+⭐ Thanks for visiting my profile!
