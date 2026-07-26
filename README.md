@@ -33,3 +33,8 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=achu-01&theme=tokyonight" />
 </p>
+## 💻 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=achu-01&layout=compact&theme=tokyonight" />
+</p>
