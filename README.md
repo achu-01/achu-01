@@ -3,11 +3,11 @@
 
 <div align="center">
 
-# Hey there! 👋 I'm Akshaya E
+# Hey there! 👋 I'm PramaAkshaya E
 
 ### Computer Science Engineering Student | Java Developer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Java+Developer+in+Progress;Exploring+Software+Development;Learning+RPA+with+UiPath;Azure+Fundamentals+Certified;Building+%26+Learning+Every+Day" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Java+Developer+in+Progress;Exploring+Software+Development;Learning+RPA+with+UiPath;Azure+Fundamentals+Certified;Focused+on+Securing+a+Software+Industry+Opportunity" />
 
 <br/>
 
