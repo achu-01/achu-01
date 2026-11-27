@@ -1,4 +1,6 @@
 
+<!-- =============== HEADER =============== -->
+
 <div align="center">
 
 # Hey there! 👋 I'm Akshaya E
@@ -7,11 +9,15 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Java+Developer+in+Progress;Exploring+Software+Development;Learning+RPA+with+UiPath;Azure+Fundamentals+Certified;Building+%26+Learning+Every+Day" />
 
+<br/>
+
 <img src="https://komarev.com/ghpvc/?username=achu-01&label=Profile%20Views&color=blueviolet&style=flat-square" />
 
 </div>
 
 ---
+
+<!-- =============== ABOUT ME =============== -->
 
 ## 💫 About Me
 
@@ -22,40 +28,44 @@
 - 🤖 Exploring Robotic Process Automation (RPA)
 - ☁️ Microsoft Certified: Azure Fundamentals (AZ-900)
 - 🌐 Familiar with Frontend Web Development
-- 🚀 Always curious about new technologies
-- 💡 Believe in learning by building real-world projects
+- 💻 Building practical skills through hands-on experience
+- 🎯 Aspiring to grow as a Software Developer
 
 <br clear="right"/>
 
 ---
 
+<!-- =============== TECH STACK =============== -->
+
 ## 🧰 Tech Stack
 
-### Programming Language
+### 💻 Programming Language
 
 <p>
 <img src="https://skillicons.dev/icons?i=java" />
 </p>
 
-### Web Technologies
+### 🌐 Web Technologies
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
-### Tools & Platforms
+### 🛠️ Tools & Platforms
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,mysql,azure" />
 </p>
 
-### Automation
+### 🤖 Automation
 
 <p>
 <img src="https://img.shields.io/badge/UiPath-RPA-FF6C37?style=for-the-badge&logo=uipath&logoColor=white" />
 </p>
 
 ---
+
+<!-- =============== CERTIFICATIONS =============== -->
 
 ## 🏅 Certifications
 
@@ -67,16 +77,20 @@
 
 ---
 
+<!-- =============== INTERNSHIPS =============== -->
+
 ## 💼 Internship Experience
 
 | Organization | Role | Focus |
-|---|---|---|
+|:---|:---|:---|
 | Tars Systems and Solutions | AI & ML Intern | AI & Machine Learning |
 | Mavepizon Technologies | Java Programming Intern | Core Java |
 | Blend Vidya EdTech | Web Development | Frontend Development |
 | AK Infopark | Web Development Intern | HTML, CSS & JavaScript |
 
 ---
+
+<!-- =============== PROJECTS =============== -->
 
 ## 🚀 Featured Projects
 
@@ -94,17 +108,23 @@
 
 ---
 
+<!-- =============== GITHUB ANALYTICS =============== -->
+
 ## 📊 GitHub Analytics
 
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=achu-01&show_icons=true&theme=tokyonight&hide_border=true&hide=issues&count_private=true" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=achu-01&layout=compact&theme=tokyonight&hide_border=true" />
+<br/><br/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=achu-01&layout=compact&theme=tokyonight&hide_border=true&hide_progress=true" />
 
 </div>
 
 ---
+
+<!-- =============== CONNECT =============== -->
 
 ## 🌐 Let's Connect
 
@@ -120,6 +140,6 @@
 
 <br/><br/>
 
-### ✨ "Learning today, building tomorrow."
+### ✨ Learning today, building tomorrow.
 
 </div>
