@@ -54,8 +54,9 @@
 ### 🛠️ Tools & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,mysql,azure" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,mysql,azure&perline=5" />
 </p>
+
 
 ### 🤖 Automation
 
