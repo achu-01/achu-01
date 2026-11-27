@@ -1,58 +1,145 @@
-# 👋 Hi, I'm Akshaya E
 
-### Computer Science Engineering Student | Microsoft Certified: Azure Fundamentals (AZ-900)
+<!-- ========== HEADER ========== -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Computer+Science+Engineering+Student;Microsoft+Certified+Azure+Fundamentals;Learning+Core+Java+%7C+Python;Interested+in+Generative+AI+%26+Cloud+Computing;Always+Learning+New+Technologies" />
-</p>
+<div align="center">
+
+# Hey there! 👋 I'm Akshaya E
+
+### Computer Science Engineering Student | Java Developer
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Java+Developer+in+Progress;Exploring+Software+Development;Learning+RPA+with+UiPath;Azure+Fundamentals+Certified;Building+%26+Learning+Every+Day" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=achu-01&label=Profile%20Views&color=blueviolet&style=flat-square" />
+
+</div>
 
 ---
 
-## 🚀 About Me
+<!-- ========== ABOUT ME ========== -->
+
+## 💫 About Me
+
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 - 🎓 Computer Science Engineering Student
+- ☕ Interested in Java and Software Development
+- 🤖 Exploring Robotic Process Automation (RPA)
 - ☁️ Microsoft Certified: Azure Fundamentals (AZ-900)
-- 💻 Currently learning Core Java & Python
-- 🤖 Interested in Generative AI & Cloud Computing
-- 🚀 Passionate about learning new technologies
+- 🌐 Familiar with Frontend Web Development
+- 🚀 Always curious about new technologies
+- 💡 Believe in learning by building real-world projects
+
+<br clear="right"/>
 
 ---
 
-## 🛠️ Skills
+<!-- ========== TECH STACK ========== -->
 
-- ☕ Core Java (OOP Concepts)
-- 🐍 Python (Basics)
-- ☁️ Microsoft Azure (AZ-900)
-- 🌐 HTML (Basics)
-- 🎨 CSS (Basics)
-- 🔧 Git & GitHub (Basics)
+## 🧰 Tech Stack
 
----
+### Programming Languages
 
-## 📫 Connect with Me
+<p>
+<img src="https://skillicons.dev/icons?i=java,python" />
+</p>
 
-- 💼 LinkedIn: https://www.linkedin.com/in/pramaakshaya/
+### Web Technologies
 
----
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
 
-## 📊 GitHub Stats
+### Tools & Platforms
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=achu-01&show_icons=true&theme=tokyonight"/>
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,mysql,azure" />
+</p>
+
+### Automation
+
+<p>
+<img src="https://img.shields.io/badge/UiPath-RPA-FF6C37?style=for-the-badge&logo=uipath&logoColor=white" />
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+<!-- ========== CERTIFICATIONS ========== -->
 
-<p align="center">
-  <img height="180em" src="https://streak-stats.demolab.com?user=achu-01&theme=tokyonight"/>
+## 🏅 Certifications
+
+<p>
+<img src="https://img.shields.io/badge/Microsoft-Azure%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
 </p>
+
+**Microsoft Certified: Azure Fundamentals (AZ-900)**
 
 ---
 
-## 💻 Most Used Languages
+<!-- ========== EXPERIENCE ========== -->
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=achu-01&layout=compact&theme=tokyonight"/>
-</p>
+## 💼 Internship Experience
+
+| Organization | Role | Focus |
+|---|---|---|
+| Tars Systems and Solutions | AI & ML Intern | AI & Machine Learning |
+| Mavepizon Technologies | Java Programming Intern | Core Java |
+| Blend Vidya EdTech | Web Development Trainee | Frontend Development |
+| AK Infopark | Web Development Intern | HTML, CSS & JavaScript |
+
+---
+
+<!-- ========== PROJECTS ========== -->
+
+## 🚀 Featured Projects
+
+### 🧠 Brain Tumor Detection Using AI
+
+- AI-based brain tumor classification using MRI images.
+- Built using Python, TensorFlow and Flask.
+- Classifies MRI images into four categories.
+
+### 🛒 Smart Expiry & Food Waste Analytics
+
+- Java and MySQL-based project for small retail shops.
+- Helps track product expiry dates and food waste.
+- Focuses on smarter inventory management.
+
+---
+
+<!-- ========== GITHUB STATS ========== -->
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=achu-01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=achu-01&theme=tokyonight&hide_border=true" />
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=achu-01&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+<!-- ========== CONNECT ========== -->
+
+## 🌐 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/pramaakshaya/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/achu-01">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
+
+### ✨ "Learning today, building tomorrow."
+
+</div>
