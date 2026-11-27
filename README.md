@@ -15,13 +15,23 @@
 
 ---
 
+
 ## 🌙 About Me
 
 <div align="center">
 
-<img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="300" />
 
 </div>
+
+- 🎓 Computer Science Engineering Student
+- ☕ Interested in Java and Software Development
+- 🤖 Exploring Robotic Process Automation (RPA)
+- ☁️ Microsoft Certified: Azure Fundamentals (AZ-900)
+- 🌐 Familiar with Frontend Web Development
+- 💻 Building practical skills through hands-on experience
+- 🎯 Aspiring to grow as a Software Developer
+
 
 - 🎓 Computer Science Engineering Student
 - ☕ Interested in Java and Software Development
