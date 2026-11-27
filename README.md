@@ -3,7 +3,7 @@
 
 <div align="center">
 
-# Hey there! 👋 I'm Akshaya E
+# Hey there! 👋 I'm PramaAkshaya E
 
 ### Computer Science Engineering Student | Java Developer
 
