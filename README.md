@@ -1,6 +1,4 @@
 
-<!-- ========== HEADER ========== -->
-
 <div align="center">
 
 # Hey there! 👋 I'm Akshaya E
@@ -9,19 +7,15 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Java+Developer+in+Progress;Exploring+Software+Development;Learning+RPA+with+UiPath;Azure+Fundamentals+Certified;Building+%26+Learning+Every+Day" />
 
-<br/>
-
 <img src="https://komarev.com/ghpvc/?username=achu-01&label=Profile%20Views&color=blueviolet&style=flat-square" />
 
 </div>
 
 ---
 
-<!-- ========== ABOUT ME ========== -->
-
 ## 💫 About Me
 
-<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 - 🎓 Computer Science Engineering Student
 - ☕ Interested in Java and Software Development
@@ -35,14 +29,12 @@
 
 ---
 
-<!-- ========== TECH STACK ========== -->
-
 ## 🧰 Tech Stack
 
-### Programming Languages
+### Programming Language
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python" />
+<img src="https://skillicons.dev/icons?i=java" />
 </p>
 
 ### Web Technologies
@@ -65,8 +57,6 @@
 
 ---
 
-<!-- ========== CERTIFICATIONS ========== -->
-
 ## 🏅 Certifications
 
 <p>
@@ -77,20 +67,16 @@
 
 ---
 
-<!-- ========== EXPERIENCE ========== -->
-
 ## 💼 Internship Experience
 
 | Organization | Role | Focus |
 |---|---|---|
 | Tars Systems and Solutions | AI & ML Intern | AI & Machine Learning |
 | Mavepizon Technologies | Java Programming Intern | Core Java |
-| Blend Vidya EdTech | Web Development Trainee | Frontend Development |
+| Blend Vidya EdTech | Web Development | Frontend Development |
 | AK Infopark | Web Development Intern | HTML, CSS & JavaScript |
 
 ---
-
-<!-- ========== PROJECTS ========== -->
 
 ## 🚀 Featured Projects
 
@@ -108,23 +94,17 @@
 
 ---
 
-<!-- ========== GITHUB STATS ========== -->
-
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=achu-01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=achu-01&show_icons=true&theme=tokyonight&hide_border=true&hide=issues&count_private=true" />
 
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=achu-01&theme=tokyonight&hide_border=true" />
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=achu-01&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=achu-01&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
-
-<!-- ========== CONNECT ========== -->
 
 ## 🌐 Let's Connect
 
